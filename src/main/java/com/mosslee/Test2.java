@@ -7,4 +7,5 @@ package com.mosslee;
  */
 public class Test2 {
   public void test(){}
+  public void test2(){}
 }

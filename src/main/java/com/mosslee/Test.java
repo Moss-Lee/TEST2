@@ -10,4 +10,7 @@ public class Test {
   }
   public void test2(){
   }
+
+  public void tes222(){
+  }
 }
