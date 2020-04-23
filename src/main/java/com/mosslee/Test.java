@@ -6,4 +6,6 @@ package com.mosslee;
  * @Version 1.0
  */
 public class Test {
+  public void test(){
+  }
 }
