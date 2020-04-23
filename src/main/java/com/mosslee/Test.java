@@ -8,6 +8,4 @@ package com.mosslee;
 public class Test {
   public void test(){
   }
-  public void test2(){
-  }
 }
